@@ -1,8 +1,9 @@
 numpy
 pandas
 matplotlib
-jupyter
 scikit-learn
-tensorflow
 keras
+notebook==5.7.5
+tensorflow==1.12.0
+jupyter
 pillow
